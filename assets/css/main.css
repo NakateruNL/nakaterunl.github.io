@@ -222,9 +222,10 @@ input, select, textarea {
 
 		background: #ffffff url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
-		height: 125%;
+		height: auto;
 		left: 0;
 		opacity: 1;
+		position: -webkit-sticky;
 		position: fixed;
 		top: 0;
 	}
