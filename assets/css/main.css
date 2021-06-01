@@ -227,7 +227,7 @@ input, select, textarea {
 		opacity: 1;
 		position: -webkit-sticky;
 		position: fixed;
-		top: 0;
+		top: 1;
 	}
 
 	@-moz-keyframes bg {
